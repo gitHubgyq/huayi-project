@@ -18,7 +18,7 @@ import com.huayi.service.TestService;
  *
  */
 @Controller
-@RequestMapping("/test11")
+@RequestMapping("/test")
 public class TestController {
 	
 	
