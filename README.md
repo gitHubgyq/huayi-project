@@ -189,16 +189,13 @@ title可加可不加
   ​
   ```
 
-  function hello\(\){ return "hello" } ​\`\`\`
+  function hello\(\){ return "hello" } 效果如下：
 
-  ```text
-  效果如下：
-
-  ```javascript
-  function hello(){
-          return "hello"
-  }
-  ```
+```java
+function hello(){
+        return "hello"
+}
+```
 
 ### 八、表格
 
